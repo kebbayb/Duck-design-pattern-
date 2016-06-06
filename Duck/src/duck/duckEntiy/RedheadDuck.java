@@ -1,7 +1,7 @@
-package duck.name;
+package duck.duckEntiy;
 
-import duck.fly.FlyWithRocket;
-import duck.quack.MuteQuack;
+import duck.duckImpel.FlyWithRocket;
+import duck.duckImpel.MuteQuack;
 
 public class RedheadDuck extends Duck{
 	public RedheadDuck(){

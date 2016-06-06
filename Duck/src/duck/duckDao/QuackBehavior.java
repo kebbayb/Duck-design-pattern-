@@ -1,4 +1,4 @@
-package duck.quack;
+package duck.duckDao;
 
 public interface QuackBehavior {
  public	void quack();

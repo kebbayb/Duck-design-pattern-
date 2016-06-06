@@ -1,7 +1,7 @@
-package duck.name;
+package duck.duckEntiy;
 
-import duck.fly.FlyWithWings;
-import duck.quack.Quack;
+import duck.duckImpel.FlyWithWings;
+import duck.duckImpel.Quack;
 
 public class MallardDuck extends Duck {
 	public MallardDuck(){

@@ -1,4 +1,4 @@
-package duck.quack;
+package duck.duckImpel;
 
 public class Quack implements QuackBehavior{
 	public void quack(){

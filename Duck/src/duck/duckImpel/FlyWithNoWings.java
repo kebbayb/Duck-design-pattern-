@@ -1,4 +1,4 @@
-package duck.fly;
+package duck.duckImpel;
 
 public class FlyWithNoWings implements FlyBehavior{
 	

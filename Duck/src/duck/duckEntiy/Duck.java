@@ -1,6 +1,6 @@
-package duck.name;
-import duck.fly.FlyBehavior;
-import duck.quack.QuackBehavior;
+package duck.duckEntiy;
+import duck.duckImpel.FlyBehavior;
+import duck.duckImpel.QuackBehavior;
 public abstract class Duck {
 	QuackBehavior quackBehavior;
     FlyBehavior flyBehavior;

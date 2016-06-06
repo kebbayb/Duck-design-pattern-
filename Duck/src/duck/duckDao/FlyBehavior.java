@@ -1,4 +1,4 @@
-package duck.fly;
+package duck.duckDAO;
 
 public interface FlyBehavior {
 	public void fly();
